@@ -2,7 +2,8 @@
 title: "HW1"
 author: "MelainaWright"
 date: "April 25, 2017"
-output: [pdf_document, beamer_presentation]
+output: pdf_document
+    
 ---
 
 ```{r setup, include=FALSE}
