@@ -125,3 +125,5 @@ abline(fit)
 ```
 
 #Graph Description
+
+##There is a weak, non-sigificant positive relationship between summer average maximum temperature and winter total precipitation. Thus, years with warmer summers are weakly associated with having more precipitation in the winter.
