@@ -64,9 +64,9 @@ clim.mth2[rowwithmin, 1]
 
 #Pictures of Wet and Dry Years in Senegal
 
-<img src="SenegalWetYear.jpg">
+![](SenegalWetYear.jpg)
 
-<img src="SenegalDryYear.jpg">
+![](SenegalDryYear.jpg)
   
 
 #Creating a New Variable for Seasons
